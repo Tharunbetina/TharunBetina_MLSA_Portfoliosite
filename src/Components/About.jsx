@@ -24,19 +24,19 @@ const imageAltText = "clouds background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Tharun Betina, a Data Science Student with a curious mindset.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python Programming",
+  "Data Science",
+  "Cloud Computing",
+  "Problem Solving",
+  "Reasoning",
+  "Teamwork",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  " I love coding in Python and am fascinated by it's wide range of applications, especially in Data Analytics. I'm very much intrigued by the concept of Cloud Computing and also hosted my own portfolio website through IBM cloud services. I am currently exploring Microsoft Azure";
 
 const About = () => {
   return (
