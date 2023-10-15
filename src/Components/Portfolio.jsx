@@ -31,28 +31,28 @@ const imageAltText = "working on laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Stock prediction using python",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Used numpy, pandas, matplotlib, karas and sklearn to analyse the data and predict stock value.",
+    url: "https://github.com/Tharunbetina/Stock-Prediction",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Sales prediction using python",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Used numpy, pandas, matplotlib and sklearn to analyse the data and predict upcoming sales.",
+    url: "https://github.com/Tharunbetina/Sales-Prediction-using-Python",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created using a HTML5 template and hosted through IBM Cloud Services.",
+    url: "tharun.betina.s3.us-east.cloud-object-storage.appdomain.cloud/index.html",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Android Library app for my college",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created an Android app to find the desired book from our college library.",
+    url: "https://github.com/Tharunbetina/KITSLIBRARY",
   },
 ];
 
