@@ -46,7 +46,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created using a HTML5 template and hosted through IBM Cloud Services.",
-    url: "tharun.betina.s3.us-east.cloud-object-storage.appdomain.cloud/index.html",
+    url: "https://tharun.betina.s3.us-east.cloud-object-storage.appdomain.cloud/index.html",
   },
   {
     title: "Android Library app for my college",
